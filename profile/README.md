@@ -2,6 +2,8 @@
 
 Or there : 
 
-https://github.com/GraduationProject-Team3-Avionics/perception.git
+https://github.com/GraduationProject-Team3-Avionics/Perception.git
 
-https://github.com/GraduationProject-Team3-Avionics/flight_control.git
+https://github.com/GraduationProject-Team3-Avionics/Control.git
+
+https://github.com/GraduationProject-Team3-Avionics/Interface.git
