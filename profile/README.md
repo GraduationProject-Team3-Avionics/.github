@@ -36,6 +36,12 @@ Avionics Team
 
 ---
 
+<p align="center">
+  <img src="https://github.com/GraduationProject-Team3-Avionics/.github/blob/main/docs/in%20case%20of%20fire.png" width="400">
+</p>
+
+---
+
 <details>
 <summary><b><span style="font-size: 1.4em">📄GIT Commit Rule</span></b></summary>
 
