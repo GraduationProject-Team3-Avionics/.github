@@ -9,7 +9,7 @@ We are **Team 3 — Avionics**, developing an autonomous drone system consisting
 
 | Module        | Description                             | Link |
 |---------------|-------------------------------------------|------|
-| Perception | Object detection, environment sensing      | [GitHub Repository](https://github.com/GraduationProject-Team3-Avionics/Perception.git) |
+| Navigation | Object detection, environment sensing      | [GitHub Repository](https://github.com/GraduationProject-Team3-Avionics/Perception.git) |
 |  Control     | Flight control & trajectory planning        | [GitHub Repository](https://github.com/GraduationProject-Team3-Avionics/Control.git) |
 |  Interface   | User interface & mission management         | [GitHub Repository](https://github.com/GraduationProject-Team3-Avionics/Interface.git) |
 
