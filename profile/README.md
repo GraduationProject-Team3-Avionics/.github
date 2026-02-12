@@ -1,7 +1,7 @@
 # 🎓 Graduation Project Team 3 — Avionics
 
 Welcome to our graduation project repository!  
-We are **Team 3 — Avionics**, developing an autonomous drone system consisting of **Perception**, **Control**, and **Interface** modules.
+We are **Team 3 — Avionics**, developing an autonomous drone system consisting of **Guidance**, **Navigation**, and **Control** modules.
 
 ---
 
@@ -9,9 +9,10 @@ We are **Team 3 — Avionics**, developing an autonomous drone system consisting
 
 | Module        | Description                             | Link |
 |---------------|-------------------------------------------|------|
-| Navigation | Object detection, environment sensing      | [GitHub Repository](https://github.com/GraduationProject-Team3-Avionics/Perception.git) |
-|  Control     | Flight control & trajectory planning        | [GitHub Repository](https://github.com/GraduationProject-Team3-Avionics/Control.git) |
-|  Interface   | User interface & mission management         | [GitHub Repository](https://github.com/GraduationProject-Team3-Avionics/Interface.git) |
+| Guidance | Target Detection & Path Generation      | [GitHub Repository](https://github.com/GraduationProject-Team3-Avionics/Guidance.git) |
+| Navigation | Mission Planning & State Estimation      | [GitHub Repository](https://github.com/GraduationProject-Team3-Avionics/Navigation.git) |
+|  Control     | Flight Control & Trajectory Tracking          | [GitHub Repository](https://github.com/GraduationProject-Team3-Avionics/Control.git) |
+|  Interface   | Basic Interface & Environment Settings        | [GitHub Repository](https://github.com/GraduationProject-Team3-Avionics/Interface.git) |
 
 ---
 
@@ -29,9 +30,9 @@ we run our drone in a **PX4-Gazebo Simulation** environment.
 
 ```
 Avionics Team
-├── Perception   # Detect environment & Visual Odometry/SLAM
-├── Control      # Control Algorithms & Flight Logics
-└── Interface    # Custom Msgs & Gazebo Setup
+├── Guidance
+├── Navigation
+└── Control
 ```
 
 ---
