@@ -14,6 +14,6 @@ We are **Team 3 — Avionics**, developing an autonomous drone system consisting
 ---
 
 ## Environments
-- Windows11
-- STM32F405RG
-- etc
+- STM32CubeMX
+- STM32CubeIDE
+- Ublox U-Center
