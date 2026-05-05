@@ -10,7 +10,7 @@ Purpose of the project is to make a Flight Controller which are best fit for our
 
 | Repository | Description | Link |
 |------------|-------------|------|
-| FlightController | Repository for Testing Navigation Algorithms | [GitHub Repository](https://github.com/GraduationProject-Team3-Avionics/FlightController) |
+| STRIX-FC-V1 | Repository for Testing Navigation Algorithms | [GitHub Repository](https://github.com/GraduationProject-Team3-Avionics/STRIX-FC-V1) |
 | STRIX-FC-V2 | Repository for RTOS-based Flight Controller Testing | [GitHub Repository](https://github.com/GraduationProject-Team3-Avionics/STRIX-FC-V2) |
 | STRIX-FC-V3 | Repository for the First Integrated Flight Controller Implementation and Hovering Test | [GitHub Repository](https://github.com/GraduationProject-Team3-Avionics/STRIX-FC-V3) |
 
